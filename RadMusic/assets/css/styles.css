@@ -1,0 +1,71 @@
+body {
+  background-color:black;
+}
+
+#sampler_promo {
+  text-align:center;
+  padding:30px;
+  background:url(../../assets/img/RadMusicRock.jpg) no-repeat;
+  background-size:cover;
+  height:600px;
+  padding-top:130px;
+}
+
+#sampler_promo .jumbotron {
+  background-color:rgba(0,0,0,0.2);
+  margin:0 auto;
+}
+
+h1.text-uppercase.text-center {
+  color:white;
+}
+
+p.text-center {
+  color:white;
+}
+
+nav.navbar.navbar-default {
+}
+
+div.projects-horizontal {
+  background:url(../../assets/img/RadMusicBookingbg.jpg);
+  background-size:cover;
+}
+
+div#divider {
+  height:15px;
+}
+
+div.container {
+  background-color:rgba(0,0,0,0.5);
+  width:1024px;
+}
+
+p.description {
+  color:white;
+}
+
+div.article-list {
+  background-color:black;
+}
+
+div#divider1 {
+  height:15px;
+}
+
+h2.text-center {
+  color:white;
+}
+
+div#divider2 {
+  height:15px;
+}
+
+h1.text-center {
+  color:white;
+  padding-right:3%;
+}
+
+iframe.embed-responsive-item {
+}
+
