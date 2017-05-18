@@ -1,3 +1,3 @@
 # radmusicofficial
 Rad Music's Official Website
-![Alt text](http://radmusicofficial/RadMusic/radmusicscreenshot1.png "RadMusicOfficial1")
+![Alt text](http://www.github.comradmusicofficial/RadMusic/radmusicscreenshot1.png "RadMusicOfficial1")
